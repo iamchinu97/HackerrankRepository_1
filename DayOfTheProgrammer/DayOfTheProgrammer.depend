@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503572410 source:c:\coderepository\dayoftheprogrammer\main.cpp
+	<iostream>
+	<stdio.h>
+

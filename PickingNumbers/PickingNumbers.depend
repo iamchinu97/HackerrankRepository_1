@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503826090 source:c:\coderepository\pickingnumbers\main.cpp
+	<iostream>
+	<cmath>
+

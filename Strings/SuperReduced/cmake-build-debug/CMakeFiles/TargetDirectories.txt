@@ -1,0 +1,3 @@
+C:/CodeRepository/Strings/SuperReduced/cmake-build-debug/CMakeFiles/SuperReduced.dir
+C:/CodeRepository/Strings/SuperReduced/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CodeRepository/Strings/SuperReduced/cmake-build-debug/CMakeFiles/rebuild_cache.dir
